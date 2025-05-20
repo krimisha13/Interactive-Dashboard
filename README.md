@@ -71,7 +71,9 @@ This project provides a dashboard that analyzes pizza sales data to identify bes
 ---
 
 ## 📌 Screenshots
-
+https://github.com/krimisha13/Pizza_Sales_Dashboard/blob/main/summary.png
+https://github.com/krimisha13/Pizza_Sales_Dashboard/blob/main/best_worst_sellers.png
+https://github.com/krimisha13/Pizza_Sales_Dashboard/blob/main/home_dashboard.png
 
 ---
 
